@@ -1,0 +1,15 @@
+# Игнорировать временные файлы
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Игнорировать папки сборок (если есть)
+[Bb]uild/
+[Bb]uilds/
+
+# Если есть папки с кэшем Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
